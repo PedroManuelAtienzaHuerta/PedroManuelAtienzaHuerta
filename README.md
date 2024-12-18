@@ -1,3 +1,8 @@
+https://pixabay.com/es/illustrations/ai-generado-datos-cient%C3%ADfico-8741372/
+https://pixabay.com/es/illustrations/inteligencia-artificial-cerebro-3382507/
+https://pixabay.com/es/illustrations/c%C3%B3digo-binario-la-digitalizaci%C3%B3n-6109177/
+
+
 - 👋 Hola, soy @PedroManuelAtienzaHuerta
 - 👀 Estoy interesado en encontrar trabajo en el campo de Soporte Técnico de TI y Automatización de TI con Python.
 - 🌱 Actualmente estoy aprendiendo Ciencia de Datos ...
