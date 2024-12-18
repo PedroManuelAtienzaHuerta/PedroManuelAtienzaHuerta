@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://pixabay.com/es/illustrations/ai-generado-datos-cient%C3%ADfico-8741372/">
- <source media="(prefers-color-scheme: light)" srcset="https://pixabay.com/es/illustrations/inteligencia-artificial-cerebro-3382507/">
- <img alt="Imagen de perfil" src="https://pixabay.com/es/illustrations/c%C3%B3digo-binario-la-digitalizaci%C3%B3n-6109177/">
-</picture>
+
 
 
 - 👋 Hola, soy @PedroManuelAtienzaHuerta
