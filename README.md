@@ -1,6 +1,4 @@
-
-
-# 👋 ¡Hola! Soy Pedro Manuel Atienza Huerta
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>¡Hola! Soy Pedro Manuel Atienza Huerta </b></h1>
 
 Soy un profesional apasionado por la tecnología con habilidades en **Soporte Técnico de TI** y **Automatización de TI**.
 Me encanta resolver problemas y optimizar procesos mediante el uso de herramientas tecnológicas.
