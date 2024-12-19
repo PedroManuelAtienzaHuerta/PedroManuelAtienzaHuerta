@@ -1,3 +1,6 @@
+
+<img src="soporte-t-ecnic_1734649181 (1).png" alt="Imagen de Soporte Técnico de TI y Automatización de TI con Python">
+
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>¡Hola! Soy Pedro Manuel Atienza Huerta </b></h1>
 
 Soy un profesional apasionado por la tecnología con habilidades en **Soporte Técnico de TI** y **Automatización de TI**.
