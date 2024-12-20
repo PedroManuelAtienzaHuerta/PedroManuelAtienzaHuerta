@@ -22,7 +22,7 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 
 ### Automatizar la actualización de la información del catálogo de una empresa ficticia
 - **Descripción**: en un caso ficticio,trabajaba para una frutería online, y necesitaba desarrollar un sistema que actualizara la información del catálogo con los datos proporcionados por sus proveedores..
-- **Tecnologías utilizadas**: [Lenguaje de programación Python, frameworks, herramientas, etc.].
+- **Tecnologías utilizadas**: [Lenguaje de programación: Python;frameworks: entorno virtual de Qwiklabs de Google; módulos de Python usados: requests, reportlabs, emails, os, locale, etc.].
 - **Enlace**: [GitHub Repository](URL del repositorio)
 
 ### [Nombre del Proyecto 2]
