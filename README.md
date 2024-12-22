@@ -20,20 +20,20 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 ## 🔧 Proyectos de Código
 
 ### Automatizar la actualización de la información del catálogo de una empresa ficticia
-- **Descripción**: en un caso ficticio, trabajaba para una frutería online, necesitaba desarrollar un sistema que actualizara la información del catálogo con los datos proporcionados por sus proveedores..
+- **Descripción**: en un caso ficticio, trabajaba para una frutería online, necesitaba desarrollar un sistema que actualizara la información del catálogo con los datos proporcionados por sus proveedores
 - **Tecnologías utilizadas**:
   - Lenguaje de programación: Python
   - Frameworks: entorno virtual de Qwiklabs de Google
-  - Módulos de Python usados: "PIL", "requests", "reportlabs", "emails".
+  - Módulos de Python usados: "PIL", "requests", "reportlabs", "emails"
   
 - **Enlace**: [GitHub Repository](URL del repositorio)
 
 ### Optimizar el rendimiento de scripts de Python 
-- **Descripción**: en una simulación de una tarea real, corregir el script realizado por un compañero de trabajo. El script ejecutaba la copia de seguridad de datos muy lentamente.
+- **Descripción**: en una simulación de una tarea real, corregir el script realizado por un compañero de trabajo. El script ejecutaba la copia de seguridad de datos muy lentamente
 - **Tecnologías utilizadas**:
   - Lenguajes: Python 
   - Frameworks: máquina virtual de Qwiklabs 
-  - Herramientas: módulos de Python(multiprocessing, subcall y walk de la biblioteca os) 
+  - Módulos de Python:"psutil", "multiprocessing", "subprocess" y "os"
   
 - **Enlace**: [GitHub Repository](URL del repositorio)
 
