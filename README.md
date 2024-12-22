@@ -10,13 +10,12 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 
 ## 🎓 Formación Académica
 
-- **BUP/COU** en Ciencias Técnicas.  
-  Ext.I.B. Fray Bartolomé de Las Casas - *1996*
-
 - **Certificación en Automatización de TI con Python**  
-  Google - * Diciembre de 2024*
+  Google - *Diciembre de 2024*
  - **Certificación en Soporte Técnico de Tecnologías de la Información**  
-  Google - *Julio de 2024* 
+  Google - *Julio de 2024*
+ - **BUP/COU** en Ciencias   
+  Ext.I.B. Fray Bartolomé de Las Casas -  *Junio de 1996*
 
 ## 🔧 Proyectos de Código
 
@@ -25,16 +24,16 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 - **Tecnologías utilizadas**:
   - Lenguaje de programación: Python
   - Frameworks: entorno virtual de Qwiklabs de Google
-  - Módulos de Python usados: PIL, requests, reportlabs, emails.
+  - Módulos de Python usados: "PIL", "requests", "reportlabs", "emails".
   
 - **Enlace**: [GitHub Repository](URL del repositorio)
 
-### [Nombre del Proyecto 2]
-- **Descripción**: [Breve descripción del proyecto y su propósito].
+### Optimizar el rendimiento de scripts de Python 
+- **Descripción**: en una simulación de una tarea real, corregir el script realizado por un compañero de trabajo. El script ejecutaba la copia de seguridad de datos muy lentamente.
 - **Tecnologías utilizadas**:
-  - Lenguajes:
-  - Frameworks:
-  - Herramientas:
+  - Lenguajes: Python 
+  - Frameworks: máquina virtual de Qwiklabs 
+  - Herramientas: módulos de Python(multiprocessing, subcall y walk de la biblioteca os) 
   
 - **Enlace**: [GitHub Repository](URL del repositorio)
 
