@@ -29,13 +29,13 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 - **Enlace**: [GitHub Repository](URL del repositorio)
 
 ### Optimizar el rendimiento de scripts de Python 
-- **Descripción**: en una simulación de una tarea real, corregir el script realizado por un compañero de trabajo. El script ejecutaba la copia de seguridad de datos muy lentamente
+- **Descripción**: en una simulación de una tarea real, corregir el código realizado por un compañero de trabajo. El script ejecutaba la copia de seguridad de datos muy lentamente
 - **Tecnologías utilizadas**:
   - Lenguajes: Python 
   - Frameworks: máquina virtual de Qwiklabs 
   - Módulos de Python:"psutil", "multiprocessing", "subprocess" y "os"
   
-- **Enlace**: [GitHub Repository](URL del repositorio)
+- **Repositorio GitHub**: PedroManuelAtienzaHuerta\Optimizar-el-rendimiento-de-un-script-de-python-lento
 
 ## 🌟 Habilidades
 
