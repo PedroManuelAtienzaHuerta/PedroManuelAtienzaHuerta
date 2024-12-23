@@ -35,7 +35,7 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
   - Frameworks: máquina virtual de Qwiklabs 
   - Módulos de Python:"psutil", "multiprocessing", "subprocess" y "os"
   
-- **Repositorio GitHub**: PedroManuelAtienzaHuerta\Optimizar-el-rendimiento-de-un-script-de-python-lento
+- **Repositorio GitHub**: PedroManuelAtienzaHuerta/Optimizar-el-rendimiento-de-un-script-de-python-lento
 
 ## 🌟 Habilidades
 
