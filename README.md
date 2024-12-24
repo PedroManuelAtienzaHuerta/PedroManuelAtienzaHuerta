@@ -5,7 +5,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>¡Hola! Soy Pedro Manuel Atienza Huerta </b></h1>
 
 Soy un profesional apasionado por la tecnología con habilidades en **Soporte Técnico de TI** y **Automatización de TI**.
+
 Me encanta resolver problemas y optimizar procesos mediante el uso de herramientas tecnológicas.
+
 Estoy aquí para compartir mis conocimientos y proyectos, así como para aprender y crecer en el campo de la tecnología.
 
 ## 🎓 Formación Académica
@@ -33,9 +35,11 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 - **Tecnologías utilizadas**:
   - Lenguajes: Python 
   - Frameworks: máquina virtual de Qwiklabs 
-  - Módulos de Python:"psutil", "multiprocessing", "subprocess" y "os"
+  - Módulos de Python: "psutil", "multiprocessing", "subprocess" y "os"
   
-- **Repositorio GitHub**: PedroManuelAtienzaHuerta/Optimizar-el-rendimiento-de-un-script-de-python-lento
+- **Repositorio GitHub**:  <a href="PedroManuelAtienzaHuerta/Optimizar-el-rendimiento-de-un-script-de-python-lento ">PedroManuelAtienzaHuerta/Optimizar-el-rendimiento-de-un-script-de-python-lento</a>
+
+ 
 
 ## 🌟 Habilidades
 
