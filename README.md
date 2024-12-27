@@ -28,7 +28,7 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
   - Frameworks: entorno virtual de Qwiklabs de Google
   - Módulos de Python usados: "PIL", "requests", "reportlabs", "emails"
   
-- **Enlace**: [GitHub Repository](URL del repositorio)
+- **Repositorio GitHub**: [/Automatizar-la-actualizacion-del-catalogo-de-una-empresa-](https://github.com/PedroManuelAtienzaHuerta/Automatizar-la-actualizacion-del-catalogo-de-una-empresa-)
 
 ### Optimizar el rendimiento de scripts de Python 
 - **Descripción**: en una simulación de una tarea real, corregir el código realizado por un compañero de trabajo. El script ejecutaba la copia de seguridad de datos muy lentamente
