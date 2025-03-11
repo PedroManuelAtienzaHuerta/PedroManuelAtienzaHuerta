@@ -65,16 +65,16 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 ## 🧑‍💻 Experiencia Laboral
 
 ### Mozo de Almacén- Jobandtalent Spain 
-*10/01/2025* - *09/03/2025*
+*Enero de 2025* - *Marzo de 2025*
 - Recibir mercancía y Clasificar Paquetes, también descargar jaulas y cargar palets en camiones mediante transpaleta manual. Todo ello en el almacén de la empresa Paack en Alcalá de Guadaira (Sevilla).  
 
 ### Envasador de Fruta - Synergie ETT
-*11/09/2024* - *25/09/2024*
+*Septiembre de 2024*
 - Cargué cajas de frutas y las envasé en el almacén de la empresa Hermanos Fernández López S.L. del Polígono Industrial de La Isla, en Dos Hermanas(Sevilla).  
 
 
 ### Mozo de Almacén - Amazon Spain Fullfilment S.L.
-*11/02/2024* - *11/04/2024*
+*Febrero de 2024* - *Abril de 2024*
 - Preparé pedidos en el Departamento de Outbound del almacén de Amazon en Figueras(Gerona). 
 
 
