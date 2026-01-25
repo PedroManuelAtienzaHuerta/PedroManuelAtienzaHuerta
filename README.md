@@ -12,7 +12,8 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 
 ## 🎓 Formación Académica
 - **Curso de Introducción al Bug Bounty**
-  Redteam Leaders - *Enero de 2026*
+
+   Redteam Leaders - *Enero de 2026*
 
 - **Certificación en Automatización de TI con Python**  
   Google - *Diciembre de 2024*
