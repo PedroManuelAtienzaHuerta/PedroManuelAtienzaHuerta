@@ -4,13 +4,15 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>¡Hola! Soy Pedro Manuel Atienza Huerta </b></h1>
 
-Soy un profesional apasionado por la tecnología con habilidades en **Soporte Técnico de TI** y **Automatización de TI**.
+Soy un profesional apasionado por la tecnología con habilidades en **Soporte Técnico de TI**, **Automatización de TI**, **Ciberseguridad y Bug Bounty**.
 
 Me encanta resolver problemas y optimizar procesos mediante el uso de herramientas tecnológicas.
 
 Estoy aquí para compartir mis conocimientos y proyectos, así como para aprender y crecer en el campo de la tecnología.
 
 ## 🎓 Formación Académica
+- **Curso de Introducción al Bug Bounty**
+  Redteam Leaders - *Enero de 2026*
 
 - **Certificación en Automatización de TI con Python**  
   Google - *Diciembre de 2024*
@@ -63,6 +65,10 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedromanuelatienzahuerta" alt="pedromanuelatienzahuerta" /></a> </p>
 
 ## 🧑‍💻 Experiencia Laboral
+
+### Fc Associate I - Amazon Spain Fulfillment S.L.U.
+*Mayo de 2025* - *Enero de 2026*
+- Recibir y decantar artículos de cajas de proveedores.
 
 ### Mozo de Almacén- Jobandtalent Spain 
 *Enero de 2025* - *Marzo de 2025*
