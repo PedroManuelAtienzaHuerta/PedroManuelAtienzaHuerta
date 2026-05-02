@@ -19,13 +19,17 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
   Google - *Diciembre de 2024*
  - **Certificación en Soporte Técnico de Tecnologías de la Información**  
   Google - *Julio de 2024*
+- **Certificación en Ciberseguridad**  
+  Google - *Mayo de 2024*
  - **BUP/COU** en Ciencias   
   Ext.I.B. Fray Bartolomé de Las Casas -  *Junio de 1996*
 
 ## 🔧 Proyectos de Código
 
 ### Automatizar la actualización de la información del catálogo de una empresa ficticia
+
 - **Descripción**: en un caso ficticio, trabajaba para una frutería online, necesitaba desarrollar un sistema que actualizara la información del catálogo con los datos proporcionados por sus proveedores
+  
 - **Tecnologías utilizadas**:
   - Lenguaje de programación: Python
   - Frameworks: entorno virtual de Qwiklabs de Google
@@ -48,6 +52,7 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 
 - **Soporte Técnico**: Resolución de problemas, configuración de hardware y software, gestión de incidencias.
 - **Automatización de TI**: Scripts en [Python, Bash, etc.], herramientas de automatización como [Ansible, Puppet, etc.]
+- **Ciberseguridad**: Scripts en [Python, Bash, etc.], herramientas de automatización como [Ansible, Puppet, etc.]
 - **Networking**: Configuración y mantenimiento de redes, gestión de seguridad.
 - **Comunicación**: Capacidad para explicar conceptos técnicos a usuarios no técnicos.
 
