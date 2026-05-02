@@ -19,8 +19,8 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
   Google - *Diciembre de 2024*
  - **Certificación en Soporte Técnico de Tecnologías de la Información**  
   Google - *Julio de 2024*
-- **Certificación en Ciberseguridad**  
-  Google - *Mayo de 2024*
+- **Certificación en Google Cloud Cibersecurity**  
+  Google - *Junio de 2024*
  - **BUP/COU** en Ciencias   
   Ext.I.B. Fray Bartolomé de Las Casas -  *Junio de 1996*
 
@@ -52,9 +52,11 @@ Estoy aquí para compartir mis conocimientos y proyectos, así como para aprende
 
 - **Soporte Técnico**: Resolución de problemas, configuración de hardware y software, gestión de incidencias.
 - **Automatización de TI**: Scripts en [Python, Bash, etc.], herramientas de automatización como [Ansible, Puppet, etc.]
-- **Ciberseguridad**: Scripts en [Python, Bash, etc.], herramientas de automatización como [Ansible, Puppet, etc.]
-- **Networking**: Configuración y mantenimiento de redes, gestión de seguridad.
-- **Comunicación**: Capacidad para explicar conceptos técnicos a usuarios no técnicos.
+- **Ciberseguridad**: trabajar con “Cloud Shell” y “Security Command Center”de Google y la
+herramienta de Iac “Terraform”, identificar riesgos e implementar controles de seguridad mientras se
+evalúan los requisitos de cumplimiento, usar las herramientas de Google Cloud, como Chronicle SIEM y SOAR, en la administración de incidentes, seguridad de Redes y de TI.
+
+
 
 
 <h3 align="left">Lenguajes de Programación y Herramientas:</h3>
